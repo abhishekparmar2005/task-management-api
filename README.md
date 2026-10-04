@@ -1,4 +1,6 @@
 # Task Management REST API
+   Live URL: https://task-management-api-uqjt.onrender.com
+   Note: the server is on a free plan, so the first request may take up to a minute to wake up.
 
 ## Project Overview
 
